@@ -1,4 +1,5 @@
 //Jocelyn Wofford - 11/25/2025
+//This application prints "Hello Word!" and the numbers 0 to 9.
 
 console.log("Hello world!");
 
